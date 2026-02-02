@@ -1,7 +1,9 @@
 // ==UserScript==
 // @name         Discogs: Hide listings from blocked sellers
-// @version      1.2
+// @version      2026.2.2
 // @description  Hide marketplace listings on Discogs release pages from a configurable list of sellers.
+// @homepageURL  https://github.com/metaisfacil/userscripts
+// @downloadURL  https://raw.github.com/metaisfacil/userscripts/main/discogs/Discogs%EF%BC%9A%20Hide%20listings%20from%20blocked%20sellers.user.js
 // @match        https://www.discogs.com/sell/release/*
 // @run-at       document-idle
 // @grant        none
