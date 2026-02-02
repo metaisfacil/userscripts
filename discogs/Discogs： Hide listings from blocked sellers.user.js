@@ -5,6 +5,7 @@
 // @homepageURL  https://github.com/metaisfacil/userscripts
 // @downloadURL  https://raw.github.com/metaisfacil/userscripts/main/discogs/Discogs%EF%BC%9A%20Hide%20listings%20from%20blocked%20sellers.user.js
 // @match        https://www.discogs.com/sell/release/*
+// @match        https://www.discogs.com/sell/list*
 // @run-at       document-idle
 // @grant        none
 // ==/UserScript==
